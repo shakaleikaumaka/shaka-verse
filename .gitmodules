@@ -1,0 +1,21 @@
+[submodule "worlds/shaka-home"]
+	path = worlds/shaka-home
+	url = https://github.com/shakaleikaumaka/shaka-home.git
+[submodule "worlds/grant-magnet"]
+	path = worlds/grant-magnet
+	url = https://github.com/shakaleikaumaka/grant-magnet.git
+[submodule "worlds/creation369-dashboard"]
+	path = worlds/creation369-dashboard
+	url = https://github.com/shakaleikaumaka/creation369-dashboard.git
+[submodule "worlds/creation369-premortem"]
+	path = worlds/creation369-premortem
+	url = https://github.com/shakaleikaumaka/creation369-premortem.git
+[submodule "worlds/ology-how-why"]
+	path = worlds/ology-how-why
+	url = https://github.com/shakaleikaumaka/ology-how-why.git
+[submodule "worlds/ology-bless-checklist"]
+	path = worlds/ology-bless-checklist
+	url = https://github.com/shakaleikaumaka/ology-bless-checklist.git
+[submodule "worlds/jai-heart-hackathon-gallery"]
+	path = worlds/jai-heart-hackathon-gallery
+	url = https://github.com/shakaleikaumaka/jai-heart-hackathon-gallery.git
