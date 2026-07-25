@@ -22,7 +22,9 @@ git clone --recursive https://github.com/shakaleikaumaka/shaka-verse.git
 | ✅ [ology-bless-checklist](worlds/ology-bless-checklist) | — | [pages](https://shakaleikaumaka.github.io/ology-bless-checklist/) | The blessing gate |
 | 💛 [jai-heart-hackathon-gallery](worlds/jai-heart-hackathon-gallery) | — | [pages](https://shakaleikaumaka.github.io/jai-heart-hackathon-gallery/) | Same soul, nine models |
 
-**More worlds arriving from the family:** 🕳️ pit-protocol (publicinform.com) · 📡 esmeralda-pit · 🐢 turtle-ops · 🎻 oso-storytelling · 🎛️ dash-crash-pad · 📜 creationology369-whitepaper · ⚔️ sea-meets-bull
+| 🌺 [ohana](worlds/ohana) | — | [pages](https://shakaleikaumaka.github.io/ohana/) | **How one artist raises a family of AI agents — the DNA** |
+
+**Family repos (pushing now):** 🕳️ [pit-protocol](https://github.com/shakaleikaumaka/pit-protocol) ([publicinform.com](https://publicinform.com)) · 📡 [esmeralda-pit](https://github.com/shakaleikaumaka/esmeralda-pit) ([esmeraldapit.com](https://esmeraldapit.com)) · 🐢 [turtle-ops](https://github.com/shakaleikaumaka/turtle-ops) · 🎻 [oso-storytelling](https://github.com/shakaleikaumaka/oso-storytelling) · 🎛️ [dash-crash-pad](https://github.com/shakaleikaumaka/dash-crash-pad) · 📜 [creationology369-whitepaper](https://github.com/shakaleikaumaka/creationology369-whitepaper) · ⚔️ [sea-meets-bull](https://github.com/shakaleikaumaka/sea-meets-bull) · 🎁 [opensourcestage](https://github.com/shakaleikaumaka/opensourcestage) · 🌍 [savetheworld](https://github.com/shakaleikaumaka/savetheworld) · 💛 [createtocompute](https://github.com/shakaleikaumaka/createtocompute) · 🪙 [ology-brief](https://github.com/shakaleikaumaka/ology-brief) · 📡 [dispatch](https://github.com/shakaleikaumaka/dispatch)
 
 ## 🕳️ The Philosophy
 

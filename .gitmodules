@@ -19,3 +19,6 @@
 [submodule "worlds/jai-heart-hackathon-gallery"]
 	path = worlds/jai-heart-hackathon-gallery
 	url = https://github.com/shakaleikaumaka/jai-heart-hackathon-gallery.git
+[submodule "worlds/ohana"]
+	path = worlds/ohana
+	url = https://github.com/shakaleikaumaka/ohana.git
