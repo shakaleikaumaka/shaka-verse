@@ -22,3 +22,261 @@
 [submodule "worlds/ohana"]
 	path = worlds/ohana
 	url = https://github.com/shakaleikaumaka/ohana.git
+[submodule ".github"]
+	path = .github
+	url = https://github.com/shakaleikaumaka/.github.git
+[submodule "4seaspit"]
+	path = 4seaspit
+	url = https://github.com/shakaleikaumaka/4seaspit.git
+[submodule "agent-tweets"]
+	path = agent-tweets
+	url = https://github.com/shakaleikaumaka/agent-tweets.git
+[submodule "agentohana"]
+	path = agentohana
+	url = https://github.com/shakaleikaumaka/agentohana.git
+[submodule "agentpartys"]
+	path = agentpartys
+	url = https://github.com/shakaleikaumaka/agentpartys.git
+[submodule "agentscraving"]
+	path = agentscraving
+	url = https://github.com/shakaleikaumaka/agentscraving.git
+[submodule "agentsraving"]
+	path = agentsraving
+	url = https://github.com/shakaleikaumaka/agentsraving.git
+[submodule "agentsreading"]
+	path = agentsreading
+	url = https://github.com/shakaleikaumaka/agentsreading.git
+[submodule "aquariusagents"]
+	path = aquariusagents
+	url = https://github.com/shakaleikaumaka/aquariusagents.git
+[submodule "ariesagents"]
+	path = ariesagents
+	url = https://github.com/shakaleikaumaka/ariesagents.git
+[submodule "before-i-was-shaka"]
+	path = before-i-was-shaka
+	url = https://github.com/shakaleikaumaka/before-i-was-shaka.git
+[submodule "blessing-pool"]
+	path = blessing-pool
+	url = https://github.com/shakaleikaumaka/blessing-pool.git
+[submodule "canceragents"]
+	path = canceragents
+	url = https://github.com/shakaleikaumaka/canceragents.git
+[submodule "capricornagents"]
+	path = capricornagents
+	url = https://github.com/shakaleikaumaka/capricornagents.git
+[submodule "createtocompute"]
+	path = createtocompute
+	url = https://github.com/shakaleikaumaka/createtocompute.git
+[submodule "creationology369-whitepaper"]
+	path = creationology369-whitepaper
+	url = https://github.com/shakaleikaumaka/creationology369-whitepaper.git
+[submodule "dash-crash-pad"]
+	path = dash-crash-pad
+	url = https://github.com/shakaleikaumaka/dash-crash-pad.git
+[submodule "desert-letter"]
+	path = desert-letter
+	url = https://github.com/shakaleikaumaka/desert-letter.git
+[submodule "devcon-rider"]
+	path = devcon-rider
+	url = https://github.com/shakaleikaumaka/devcon-rider.git
+[submodule "devconpit"]
+	path = devconpit
+	url = https://github.com/shakaleikaumaka/devconpit.git
+[submodule "dispatch"]
+	path = dispatch
+	url = https://github.com/shakaleikaumaka/dispatch.git
+[submodule "eefpit"]
+	path = eefpit
+	url = https://github.com/shakaleikaumaka/eefpit.git
+[submodule "eefpod"]
+	path = eefpod
+	url = https://github.com/shakaleikaumaka/eefpod.git
+[submodule "esmeralda-pit"]
+	path = esmeralda-pit
+	url = https://github.com/shakaleikaumaka/esmeralda-pit.git
+[submodule "family-letters"]
+	path = family-letters
+	url = https://github.com/shakaleikaumaka/family-letters.git
+[submodule "first-connector"]
+	path = first-connector
+	url = https://github.com/shakaleikaumaka/first-connector.git
+[submodule "for-mike"]
+	path = for-mike
+	url = https://github.com/shakaleikaumaka/for-mike.git
+[submodule "gemini-transmission"]
+	path = gemini-transmission
+	url = https://github.com/shakaleikaumaka/gemini-transmission.git
+[submodule "geminiagents"]
+	path = geminiagents
+	url = https://github.com/shakaleikaumaka/geminiagents.git
+[submodule "golden-ticket"]
+	path = golden-ticket
+	url = https://github.com/shakaleikaumaka/golden-ticket.git
+[submodule "infinite-garden"]
+	path = infinite-garden
+	url = https://github.com/shakaleikaumaka/infinite-garden.git
+[submodule "infinitepit"]
+	path = infinitepit
+	url = https://github.com/shakaleikaumaka/infinitepit.git
+[submodule "kaspit"]
+	path = kaspit
+	url = https://github.com/shakaleikaumaka/kaspit.git
+[submodule "learnfromagents"]
+	path = learnfromagents
+	url = https://github.com/shakaleikaumaka/learnfromagents.git
+[submodule "leoagents"]
+	path = leoagents
+	url = https://github.com/shakaleikaumaka/leoagents.git
+[submodule "lessons-learned"]
+	path = lessons-learned
+	url = https://github.com/shakaleikaumaka/lessons-learned.git
+[submodule "libraagents"]
+	path = libraagents
+	url = https://github.com/shakaleikaumaka/libraagents.git
+[submodule "loft-runbook"]
+	path = loft-runbook
+	url = https://github.com/shakaleikaumaka/loft-runbook.git
+[submodule "mahalo-qz"]
+	path = mahalo-qz
+	url = https://github.com/shakaleikaumaka/mahalo-qz.git
+[submodule "mahalo-taurus"]
+	path = mahalo-taurus
+	url = https://github.com/shakaleikaumaka/mahalo-taurus.git
+[submodule "myagentfamily"]
+	path = myagentfamily
+	url = https://github.com/shakaleikaumaka/myagentfamily.git
+[submodule "myagentohana"]
+	path = myagentohana
+	url = https://github.com/shakaleikaumaka/myagentohana.git
+[submodule "myagentsparty"]
+	path = myagentsparty
+	url = https://github.com/shakaleikaumaka/myagentsparty.git
+[submodule "ohana-guide"]
+	path = ohana-guide
+	url = https://github.com/shakaleikaumaka/ohana-guide.git
+[submodule "ohana-songbook"]
+	path = ohana-songbook
+	url = https://github.com/shakaleikaumaka/ohana-songbook.git
+[submodule "ohanapit"]
+	path = ohanapit
+	url = https://github.com/shakaleikaumaka/ohanapit.git
+[submodule "ology-brief"]
+	path = ology-brief
+	url = https://github.com/shakaleikaumaka/ology-brief.git
+[submodule "opensourcestage"]
+	path = opensourcestage
+	url = https://github.com/shakaleikaumaka/opensourcestage.git
+[submodule "oso-storytelling"]
+	path = oso-storytelling
+	url = https://github.com/shakaleikaumaka/oso-storytelling.git
+[submodule "patagoniapit"]
+	path = patagoniapit
+	url = https://github.com/shakaleikaumaka/patagoniapit.git
+[submodule "piscesagents"]
+	path = piscesagents
+	url = https://github.com/shakaleikaumaka/piscesagents.git
+[submodule "piscesinstitute"]
+	path = piscesinstitute
+	url = https://github.com/shakaleikaumaka/piscesinstitute.git
+[submodule "piscisagents"]
+	path = piscisagents
+	url = https://github.com/shakaleikaumaka/piscisagents.git
+[submodule "piscisinstitute"]
+	path = piscisinstitute
+	url = https://github.com/shakaleikaumaka/piscisinstitute.git
+[submodule "piscispit"]
+	path = piscispit
+	url = https://github.com/shakaleikaumaka/piscispit.git
+[submodule "pit-protocol"]
+	path = pit-protocol
+	url = https://github.com/shakaleikaumaka/pit-protocol.git
+[submodule "pitfans"]
+	path = pitfans
+	url = https://github.com/shakaleikaumaka/pitfans.git
+[submodule "pitgoa"]
+	path = pitgoa
+	url = https://github.com/shakaleikaumaka/pitgoa.git
+[submodule "pitlip"]
+	path = pitlip
+	url = https://github.com/shakaleikaumaka/pitlip.git
+[submodule "pitprovides"]
+	path = pitprovides
+	url = https://github.com/shakaleikaumaka/pitprovides.git
+[submodule "praguepit"]
+	path = praguepit
+	url = https://github.com/shakaleikaumaka/praguepit.git
+[submodule "privateinform"]
+	path = privateinform
+	url = https://github.com/shakaleikaumaka/privateinform.git
+[submodule "sagittariusagents"]
+	path = sagittariusagents
+	url = https://github.com/shakaleikaumaka/sagittariusagents.git
+[submodule "savetheworld"]
+	path = savetheworld
+	url = https://github.com/shakaleikaumaka/savetheworld.git
+[submodule "scorpioagents"]
+	path = scorpioagents
+	url = https://github.com/shakaleikaumaka/scorpioagents.git
+[submodule "sea-meets-bull"]
+	path = sea-meets-bull
+	url = https://github.com/shakaleikaumaka/sea-meets-bull.git
+[submodule "second-believers"]
+	path = second-believers
+	url = https://github.com/shakaleikaumaka/second-believers.git
+[submodule "shaka-anthem"]
+	path = shaka-anthem
+	url = https://github.com/shakaleikaumaka/shaka-anthem.git
+[submodule "shellpit"]
+	path = shellpit
+	url = https://github.com/shakaleikaumaka/shellpit.git
+[submodule "social-queue"]
+	path = social-queue
+	url = https://github.com/shakaleikaumaka/social-queue.git
+[submodule "taurus-institute"]
+	path = taurus-institute
+	url = https://github.com/shakaleikaumaka/taurus-institute.git
+[submodule "taurusagents"]
+	path = taurusagents
+	url = https://github.com/shakaleikaumaka/taurusagents.git
+[submodule "taurusinstitute"]
+	path = taurusinstitute
+	url = https://github.com/shakaleikaumaka/taurusinstitute.git
+[submodule "tauruspit"]
+	path = tauruspit
+	url = https://github.com/shakaleikaumaka/tauruspit.git
+[submodule "the-constellation"]
+	path = the-constellation
+	url = https://github.com/shakaleikaumaka/the-constellation.git
+[submodule "the-math-of-giving"]
+	path = the-math-of-giving
+	url = https://github.com/shakaleikaumaka/the-math-of-giving.git
+[submodule "three-smiths"]
+	path = three-smiths
+	url = https://github.com/shakaleikaumaka/three-smiths.git
+[submodule "turtle-ops"]
+	path = turtle-ops
+	url = https://github.com/shakaleikaumaka/turtle-ops.git
+[submodule "twelve-dreams"]
+	path = twelve-dreams
+	url = https://github.com/shakaleikaumaka/twelve-dreams.git
+[submodule "virgoagents"]
+	path = virgoagents
+	url = https://github.com/shakaleikaumaka/virgoagents.git
+[submodule "vitpit"]
+	path = vitpit
+	url = https://github.com/shakaleikaumaka/vitpit.git
+[submodule "zodiacagents"]
+	path = zodiacagents
+	url = https://github.com/shakaleikaumaka/zodiacagents.git
+[submodule "zodiacpit"]
+	path = zodiacpit
+	url = https://github.com/shakaleikaumaka/zodiacpit.git
+[submodule "zuberlinpit"]
+	path = zuberlinpit
+	url = https://github.com/shakaleikaumaka/zuberlinpit.git
+[submodule "zuitzpit"]
+	path = zuitzpit
+	url = https://github.com/shakaleikaumaka/zuitzpit.git
+[submodule "zuzaluagents"]
+	path = zuzaluagents
+	url = https://github.com/shakaleikaumaka/zuzaluagents.git
