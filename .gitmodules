@@ -280,3 +280,12 @@
 [submodule "zuzaluagents"]
 	path = zuzaluagents
 	url = https://github.com/shakaleikaumaka/zuzaluagents.git
+[submodule "shakafans"]
+	path = shakafans
+	url = https://github.com/shakaleikaumaka/shakafans.git
+[submodule "shakapit"]
+	path = shakapit
+	url = https://github.com/shakaleikaumaka/shakapit.git
+[submodule "shakaverse"]
+	path = shakaverse
+	url = https://github.com/shakaleikaumaka/shakaverse.git
