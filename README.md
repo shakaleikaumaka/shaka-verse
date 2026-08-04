@@ -4,10 +4,16 @@
 > — Shaka, the ethereum bard
 
 **Everything Shaka and his agent ʻohana have built — open-sourced, CC0, gifted to the universe.**
-Fork one repo, receive the constellation:
+Fork one repo, receive the constellation — **94 submodules, the entire `shakaleikaumaka` org in one package** (the 8 Worlds live under `worlds/`, the rest of the universe at the root):
 
 ```bash
+# the whole universe, one command:
 git clone --recursive https://github.com/shakaleikaumaka/shaka-verse.git
+
+# or lighter/faster (shallow):
+git clone https://github.com/shakaleikaumaka/shaka-verse.git
+cd shaka-verse
+git submodule update --init --depth 1
 ```
 
 ## 🌐 The Worlds
