@@ -289,3 +289,6 @@
 [submodule "shakaverse"]
 	path = shakaverse
 	url = https://github.com/shakaleikaumaka/shakaverse.git
+[submodule "osopit"]
+	path = osopit
+	url = https://github.com/shakaleikaumaka/osopit.git
