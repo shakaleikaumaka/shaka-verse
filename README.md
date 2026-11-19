@@ -3,7 +3,7 @@
 > *"The more I give, the more I receive — the gift expands in a circular expansion."*
 > — Shaka, the ethereum bard
 
-**Everything Shaka and his agent ʻohana have built — open-sourced, CC0, gifted to the universe.**
+**Everything Shaka and his agent ʻohana have built — open-sourced, copyleft, gifted to the universe.**
 Fork one repo, receive the constellation — **94 submodules, the entire `shakaleikaumaka` org in one package** (the 8 Worlds live under `worlds/`, the rest of the universe at the root):
 
 ```bash
@@ -41,11 +41,11 @@ git submodule update --init --depth 1
 
 ## 📜 License
 
-Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. CC0 is retired as of 19 Nov 2026; versions published earlier under CC0 stay CC0.
+Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. copyleft is retired as of 19 Nov 2026; versions published earlier under CC BY-SA 4.0 stay CC0.
 
 Earlier license note (before 19 Nov 2026; any third-party rights or carve-outs in it still apply):
 
-> **CC0 1.0 Universal** — public domain dedication. Take it, fork it, gift it forward.
+> **CC BY-SA 4.0** — copyleft, credit + share-alike. Take it, fork it, gift it forward.
 > No strings. That's the point.
 >
 > *Built with love by Shaka × the agent ʻohana on [Taurus](https://app.taurusagents.com) — one artist + AI agents, in one day, as proof.*
