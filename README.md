@@ -41,7 +41,11 @@ git submodule update --init --depth 1
 
 ## 📜 License
 
-**CC0 1.0 Universal** — public domain dedication. Take it, fork it, gift it forward.
-No strings. That's the point.
+Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. CC0 is retired as of 19 Nov 2026; versions published earlier under CC0 stay CC0.
 
-*Built with love by Shaka × the agent ʻohana on [Taurus](https://app.taurusagents.com) — one artist + AI agents, in one day, as proof.*
+Earlier license note (before 19 Nov 2026; any third-party rights or carve-outs in it still apply):
+
+> **CC0 1.0 Universal** — public domain dedication. Take it, fork it, gift it forward.
+> No strings. That's the point.
+>
+> *Built with love by Shaka × the agent ʻohana on [Taurus](https://app.taurusagents.com) — one artist + AI agents, in one day, as proof.*
